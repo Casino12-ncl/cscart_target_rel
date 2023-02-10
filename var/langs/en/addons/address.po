@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::description::address"
+msgid "Checking links for outside url"
+msgstr "Checking links for outside url"
+
+msgctxt "SettingsOptions::address::blank"
+msgid "Includes blank"
+msgstr "Includes blank"
+
+msgctxt "SettingsOptions::address::nofollow"
+msgid "Includes nofollow"
+msgstr "Includes nofollow"
